@@ -6,9 +6,6 @@
 <img src="./assets/teis-merging.png" alt="teaser image" width="800"/>
 
 
-
-# Merging Models
-
 ## Setup
 
 1. Create a virtual environment and activate it.
