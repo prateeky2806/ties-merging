@@ -113,7 +113,7 @@ Please cite our paper if you use our models in your works:
 
 
 ```bibtex
-@article{yadav2023resolving,
+@article{yadav2023ties-merging,
       title={Resolving Interference When Merging Models}, 
       author={Prateek Yadav and Derek Tam and Leshem Choshen and Colin Raffel and Mohit Bansal},
       year={2023},
