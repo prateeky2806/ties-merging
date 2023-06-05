@@ -1,0 +1,23 @@
+{
+    "pretrained_model": "t5-base",
+    "train_batch_size": 256,
+    "eval_batch_size": 256,
+    "gradient_accumulation_factor": 4,
+    "train_template_idx": 0,
+    "eval_template_idx": 0,
+    "num_batches": 75000,
+    "optimizer": "adamw",
+    "scheduler": null,
+    "lr": 1e-4,
+    "checkpoint_frequency": 100,
+    "should_eval_at_beginning": false,
+    "max_seq_len": 128,
+    "max_gen_len": 64,
+    "inference_dataset_mixture": "t5_mixture",
+    "train_dataset_mixture": "t5_mixture",
+    "length_normalization": false,
+    "seed": 42,
+    "max_datapoints_per_dataset": 500000,
+    "use_bfloat16_during_training": true,
+    "use_bfloat16_during_eval": true
+}
