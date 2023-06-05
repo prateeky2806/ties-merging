@@ -108,4 +108,14 @@ $scale = linear+0.8+2.51+0.1
 python ./src/ties_merging.py -c configs/ia3_base.json -i T0_held_out -m T0_held_out -f ${redundant}_${elect}_${agg}_${scale} --multiple_prompts --kwargs pretrained_model=bigscience/T0_3B split=${eval_split} project_name=ia3 experiment_name=ties
 ```
 
+# Reference
+Please cite our paper if you use our models in your works:
 
+
+```bibtex
+@article{yadav2023resolving,
+      title={Resolving Interference When Merging Models}, 
+      author={Prateek Yadav and Derek Tam and Leshem Choshen and Colin Raffel and Mohit Bansal},
+      year={2023},
+      journal={arXiv preprint arXiv:2306.01708},
+}
