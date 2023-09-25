@@ -1,4 +1,4 @@
-# Resolving Interference When Merging Models
+# Resolving Interference When Merging Models ([NeurIPS 2023](https://neurips.cc/))
 
 * Authors: [Prateek Yadav](https://prateek-yadav.github.io/), [Derek Tam](https://dptam.github.io/), [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen), [Colin Raffel](https://colinraffel.com/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 * Paper: [arXiv](https://arxiv.org/abs/2306.01708)
@@ -110,9 +110,11 @@ Please cite our paper if you use our models in your works:
 
 
 ```bibtex
-@article{yadav2023ties-merging,
+@inproceedings{yadav2023ties-merging,
       title={Resolving Interference When Merging Models}, 
       author={Prateek Yadav and Derek Tam and Leshem Choshen and Colin Raffel and Mohit Bansal},
-      year={2023},
-      journal={arXiv preprint arXiv:2306.01708},
+    booktitle = "NeurIPS",
+    year = "2023",
+    address = "New Orleans, USA",
+    publisher = "Proceedings of Machine Learning Research",
 }
