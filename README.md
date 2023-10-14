@@ -22,6 +22,8 @@ python -m pip install -r requirements.txt -f https://download.pytorch.org/whl/cu
 
 4. Set the path to where finetuned models are stored in utils/merge_utils.py
 
+We have released the IA3 checkpoints [here!](https://drive.google.com/drive/folders/1V2-SLOgK248TQBMP2i_cEdQnxB2jM2E1?usp=sharing)
+
 ## Evaluation
 
 ### Evaluate IA3 across multiple prompts and report median.
