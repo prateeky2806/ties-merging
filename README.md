@@ -1,6 +1,6 @@
 # Resolving Interference When Merging Models ([NeurIPS 2023](https://neurips.cc/))
 
-* Authors: [Prateek Yadav](https://prateek-yadav.github.io/), [Derek Tam](https://dptam.github.io/), [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen), [Colin Raffel](https://colinraffel.com/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
+* Authors: [Prateek Yadav](https://prateeky2806.github.io/), [Derek Tam](https://dptam.github.io/), [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen), [Colin Raffel](https://colinraffel.com/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 * Paper: [arXiv](https://arxiv.org/abs/2306.01708)
 
 <img src="./assets/teis-merging.png" alt="teaser image" width="800"/>
