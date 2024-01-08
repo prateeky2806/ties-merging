@@ -24,6 +24,14 @@ python -m pip install -r requirements.txt -f https://download.pytorch.org/whl/cu
 
 We have released the IA3 checkpoints [here!](https://drive.google.com/drive/folders/1V2-SLOgK248TQBMP2i_cEdQnxB2jM2E1?usp=sharing)
 
+## Train
+
+### Train T5 Models
+
+```
+python src/training.py -c configs/t5_base.json -k train_batch_size=8 gradient_accumulation_factor=1 project_name=training experiment_name=test train_dataset=rte train_dataset_mixture=None num_batches=2
+```
+
 ## Evaluation
 
 ### Evaluate IA3 across multiple prompts and report median.
