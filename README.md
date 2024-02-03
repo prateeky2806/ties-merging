@@ -120,11 +120,11 @@ Please cite our paper if you use our models in your works:
 
 
 ```bibtex
-@inproceedings{yadav2023ties-merging,
-      title={Resolving Interference When Merging Models}, 
+@inproceedings{
+      yadav2023tiesmerging,
+      title={{TIES}-Merging: Resolving Interference When Merging Models},
       author={Prateek Yadav and Derek Tam and Leshem Choshen and Colin Raffel and Mohit Bansal},
-    booktitle = "NeurIPS",
-    year = "2023",
-    address = "New Orleans, USA",
-    publisher = "Proceedings of Machine Learning Research",
+      booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+      year={2023},
+      url={https://openreview.net/forum?id=xtaX3WyCj1}
 }
